@@ -4,7 +4,7 @@
     <property name="created">2021-12-05T21:01:08</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-03-18T09:27:02</property>
+    <property name="modified">2022-03-18T16:10:54</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3311,6 +3311,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="2b36" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="d131f6" />
@@ -3320,26 +3327,37 @@
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="c5e011" />
+        <option name="FOREGROUND" value="97e7fd" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FRAGMENT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="56d0ef" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="b146a9" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="d966f5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.PARENTHS">
@@ -3350,7 +3368,7 @@
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
@@ -4457,6 +4475,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="183a26" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
