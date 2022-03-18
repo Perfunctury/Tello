@@ -4,7 +4,7 @@
     <property name="created">2021-12-05T21:01:08</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-01-29T20:43:38</property>
+    <property name="modified">2022-03-18T09:27:02</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3311,7 +3311,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="d131f6" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -3335,6 +3340,11 @@
       <value>
         <option name="FOREGROUND" value="b146a9" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="ea3ef8" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
