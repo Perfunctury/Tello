@@ -3,7 +3,7 @@
     <property name="created">2021-12-05T21:01:08</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-03-23T09:36:48</property>
+    <property name="modified">2022-03-25T10:00:44</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <colors>
@@ -3348,7 +3348,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="97e7fd" />
+        <option name="FOREGROUND" value="7acd5e" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -3382,7 +3382,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d966f5" />
+        <option name="FOREGROUND" value="87a51b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
