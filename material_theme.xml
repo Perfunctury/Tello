@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="premium" value="true" />
-    <option name="accentColor" value="d33682" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-297dc1bd:17d8e1df9f1:-8000" />
     <option name="version" value="6.9.1" />
   </component>
