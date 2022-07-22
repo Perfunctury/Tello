@@ -3,7 +3,7 @@
     <property name="created">2021-12-05T21:01:08</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-03-31T08:59:32</property>
+    <property name="modified">2022-07-21T19:39:58</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -33,6 +33,50 @@
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="d584e5" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="55c5e2" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="4ffff" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="4ffff" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c364c9" />
+        <option name="EFFECT_COLOR" value="a7598d" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="f316b3" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="de2c8" />
+      </value>
+    </option>
+    <option name="PY.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="9bc6d4" />
+      </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="7acd5e" />
       </value>
     </option>
   </attributes>
