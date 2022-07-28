@@ -5,6 +5,7 @@
       <mapping pattern="PosterOptions" type="AUTO_DETECTED" />
       <mapping pattern="offensive_Language" type="AUTO_DETECTED" />
       <mapping pattern="names" type="AUTO_DETECTED" />
+      <mapping pattern="SortedTreasuryWallet" type="AUTO_DETECTED" />
       <mapping pattern="Hangman" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
